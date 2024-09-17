@@ -1,0 +1,16 @@
+{
+  "name": "contacts-api",
+  "version": "1.0.0",
+  "description": "Démo d'un petit service API",
+  "main": "server.js",
+  "type":"module",
+  "engines": {
+    "node":"16.14.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Nicolas Chourot",
+  "license": "ISC"
+}
